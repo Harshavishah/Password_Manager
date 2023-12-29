@@ -1,0 +1,5 @@
+Amazon|abc@gmail.com|password
+Ebay|abc@gmail.com|12345
+Facebook|abc@gmail.com|harshavi@1228
+|abc@gmail.com|
+Twitter|abc@gmail.com|PK**T&0bl0pVpO
